@@ -666,7 +666,7 @@ a.hvr-outline-out {
 a.hvr-outline-out:before {
   content: '';
   position: absolute;
-  border: #37B7E5 solid 4px;
+  border: yellow solid 4px;
   top: 0;
   right: 0;
   bottom: 0;
